@@ -1,0 +1,151 @@
+_______________________________________
+
+AAPL 모멘텀 전략 결과:
+CAGR: 1.41%
+Accumulated return: 2.66%
+Average return: 0.17%
+Benchmark return : 15.16%
+Number of trades: 22
+Number of win: 6
+Hit ratio: 27.27%
+Investment period: 1.9yrs
+Sharpe ratio: -0.03
+MDD: -13.10%
+Benchmark MDD: -30.91%
+
+_______________________________________
+
+AAPL 평균회귀 전략 결과:
+CAGR: 3.02%
+Accumulated return: 5.72%
+Average return: 0.86%
+Benchmark return : 15.16%
+Number of trades: 8
+Number of win: 5
+Hit ratio: 62.50%
+Investment period: 1.9yrs
+Sharpe ratio: 0.05
+MDD: -24.96%
+Benchmark MDD: -29.82%
+
+_______________________________________
+
+MSFT 모멘텀 전략 결과:
+CAGR: -3.68%
+Accumulated return: -6.78%
+Average return: -0.35%
+Benchmark return : 29.81%
+Number of trades: 17
+Number of win: 6
+Hit ratio: 35.29%
+Investment period: 1.9yrs
+Sharpe ratio: -0.27
+MDD: -19.01%
+Benchmark MDD: -35.58%
+
+_______________________________________
+
+MSFT 평균회귀 전략 결과:
+CAGR: 9.56%
+Accumulated return: 18.64%
+Average return: 2.28%
+Benchmark return : 29.81%
+Number of trades: 8
+Number of win: 6
+Hit ratio: 75.00%
+Investment period: 1.9yrs
+Sharpe ratio: 0.33
+MDD: -15.47%
+Benchmark MDD: -31.77%
+
+_______________________________________
+
+T 모멘텀 전략 결과:
+CAGR: -9.02%
+Accumulated return: -16.22%
+Average return: -0.88%
+Benchmark return : 3.13%
+Number of trades: 17
+Number of win: 6
+Hit ratio: 35.29%
+Investment period: 1.9yrs
+Sharpe ratio: -0.60
+MDD: -26.43%
+Benchmark MDD: -32.00%
+
+_______________________________________
+
+T 평균회귀 전략 결과:
+CAGR: 3.30%
+Accumulated return: 6.27%
+Average return: 1.54%
+Benchmark return : 3.13%
+Number of trades: 6
+Number of win: 5
+Hit ratio: 83.33%
+Investment period: 1.9yrs
+Sharpe ratio: 0.07
+MDD: -21.28%
+Benchmark MDD: -32.00%
+
+_______________________________________
+
+NVDA 모멘텀 전략 결과:
+CAGR: -8.64%
+Accumulated return: -15.55%
+Average return: -0.63%
+Benchmark return : 104.33%
+Number of trades: 23
+Number of win: 5
+Hit ratio: 21.74%
+Investment period: 1.9yrs
+Sharpe ratio: -0.38
+MDD: -29.91%
+Benchmark MDD: -62.69%
+
+_______________________________________
+
+NVDA 평균회귀 전략 결과:
+CAGR: 6.93%
+Accumulated return: 13.35%
+Average return: 2.82%
+Benchmark return : 104.33%
+Number of trades: 7
+Number of win: 5
+Hit ratio: 71.43%
+Investment period: 1.9yrs
+Sharpe ratio: 0.14
+MDD: -36.59%
+Benchmark MDD: -60.78%
+
+_______________________________________
+
+GOOGL 모멘텀 전략 결과:
+CAGR: -8.27%
+Accumulated return: -14.92%
+Average return: -0.84%
+Benchmark return : 3.07%
+Number of trades: 18
+Number of win: 4
+Hit ratio: 22.22%
+Investment period: 1.9yrs
+Sharpe ratio: -0.45
+MDD: -29.36%
+Benchmark MDD: -43.63%
+
+_______________________________________
+
+GOOGL 평균회귀 전략 결과:
+CAGR: 11.63%
+Accumulated return: 22.85%
+Average return: 2.24%
+Benchmark return : 3.07%
+Number of trades: 10
+Number of win: 8
+Hit ratio: 80.00%
+Investment period: 1.9yrs
+Sharpe ratio: 0.38
+MDD: -19.91%
+Benchmark MDD: -41.65%
+
+_______________________________________
