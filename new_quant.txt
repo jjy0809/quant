@@ -1,0 +1,1055 @@
+_______________________________________
+
+MU 모멘텀 전략 결과:
+CAGR: 57.19%
+Accumulated return: 24.13%
+Average return: 9.70%
+Benchmark return : 15.20%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 1.46
+MDD: -13.88%
+Benchmark MDD: -40.75%
+
+_______________________________________
+
+MU 평균회귀 전략 결과:
+CAGR: -20.34%
+Accumulated return: -8.58%
+Average return: -4.55%
+Benchmark return : 15.20%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: -0.35
+MDD: -28.91%
+Benchmark MDD: -39.31%
+
+_______________________________________
+
+XLI 모멘텀 전략 결과:
+CAGR: 1.45%
+Accumulated return: 0.61%
+Average return: 0.17%
+Benchmark return : 10.79%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.13
+MDD: -6.57%
+Benchmark MDD: -17.57%
+
+_______________________________________
+
+XLI 평균회귀 전략 결과:
+CAGR: 6.42%
+Accumulated return: 2.71%
+Average return: 1.35%
+Benchmark return : 10.79%
+Number of trades: 2
+Number of win: 2
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.15
+MDD: -8.11%
+Benchmark MDD: -15.85%
+
+_______________________________________
+
+LCID 모멘텀 전략 결과:
+CAGR: -23.51%
+Accumulated return: -9.92%
+Average return: -5.12%
+Benchmark return : -8.16%
+Number of trades: 8
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.33
+MDD: -35.46%
+Benchmark MDD: -41.67%
+
+_______________________________________
+
+LCID 평균회귀 전략 결과:
+CAGR: -23.89%
+Accumulated return: -10.08%
+Average return: -2.97%
+Benchmark return : -8.16%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: -0.48
+MDD: -26.98%
+Benchmark MDD: -41.67%
+
+_______________________________________
+
+GS 모멘텀 전략 결과:
+CAGR: 25.91%
+Accumulated return: 10.93%
+Average return: -0.02%
+Benchmark return : 8.29%
+Number of trades: 6
+Number of win: 1
+Hit ratio: 16.67%
+Investment period: 0.4yrs
+Sharpe ratio: 1.03
+MDD: -7.11%
+Benchmark MDD: -30.90%
+
+_______________________________________
+
+GS 평균회귀 전략 결과:
+CAGR: -31.74%
+Accumulated return: -13.39%
+Average return: -13.39%
+Benchmark return : 8.29%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.84
+MDD: -25.72%
+Benchmark MDD: -30.90%
+
+_______________________________________
+
+INTC 모멘텀 전략 결과:
+CAGR: -28.58%
+Accumulated return: -12.06%
+Average return: -2.49%
+Benchmark return : -2.12%
+Number of trades: 6
+Number of win: 1
+Hit ratio: 16.67%
+Investment period: 0.4yrs
+Sharpe ratio: -0.64
+MDD: -26.19%
+Benchmark MDD: -33.81%
+
+_______________________________________
+
+INTC 평균회귀 전략 결과:
+CAGR: 33.58%
+Accumulated return: 14.17%
+Average return: 4.86%
+Benchmark return : -2.12%
+Number of trades: 3
+Number of win: 2
+Hit ratio: 66.67%
+Investment period: 0.4yrs
+Sharpe ratio: 0.47
+MDD: -24.00%
+Benchmark MDD: -33.81%
+
+_______________________________________
+
+F 모멘텀 전략 결과:
+CAGR: -27.80%
+Accumulated return: -11.73%
+Average return: -2.05%
+Benchmark return : 23.31%
+Number of trades: 6
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.89
+MDD: -18.48%
+Benchmark MDD: -15.57%
+
+_______________________________________
+
+F 평균회귀 전략 결과:
+CAGR: 11.28%
+Accumulated return: 4.76%
+Average return: 4.76%
+Benchmark return : 23.31%
+Number of trades: 1
+Number of win: 1
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.34
+MDD: -5.93%
+Benchmark MDD: -15.57%
+
+_______________________________________
+
+PYPL 모멘텀 전략 결과:
+CAGR: -13.23%
+Accumulated return: -5.58%
+Average return: -1.12%
+Benchmark return : -4.87%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.96
+MDD: -12.65%
+Benchmark MDD: -37.47%
+
+_______________________________________
+
+PYPL 평균회귀 전략 결과:
+CAGR: -34.27%
+Accumulated return: -14.46%
+Average return: 3.97%
+Benchmark return : -4.87%
+Number of trades: 1
+Number of win: 1
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.94
+MDD: -26.98%
+Benchmark MDD: -26.98%
+
+_______________________________________
+
+BAC 모멘텀 전략 결과:
+CAGR: 14.69%
+Accumulated return: 6.20%
+Average return: 2.09%
+Benchmark return : 2.00%
+Number of trades: 3
+Number of win: 2
+Hit ratio: 66.67%
+Investment period: 0.4yrs
+Sharpe ratio: 0.75
+MDD: -4.60%
+Benchmark MDD: -27.50%
+
+_______________________________________
+
+BAC 평균회귀 전략 결과:
+CAGR: 5.02%
+Accumulated return: 2.12%
+Average return: 1.14%
+Benchmark return : 2.00%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.07
+MDD: -13.56%
+Benchmark MDD: -26.30%
+
+_______________________________________
+
+GDX 모멘텀 전략 결과:
+CAGR: -44.68%
+Accumulated return: -18.85%
+Average return: -2.25%
+Benchmark return : 24.46%
+Number of trades: 9
+Number of win: 2
+Hit ratio: 22.22%
+Investment period: 0.4yrs
+Sharpe ratio: -1.27
+MDD: -26.49%
+Benchmark MDD: -12.25%
+
+_______________________________________
+
+GDX 평균회귀 전략 결과:
+CAGR: 14.43%
+Accumulated return: 6.09%
+Average return: 6.09%
+Benchmark return : 24.46%
+Number of trades: 1
+Number of win: 1
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 1.72
+MDD: -0.34%
+Benchmark MDD: -12.25%
+
+_______________________________________
+
+EWY 모멘텀 전략 결과:
+CAGR: 43.47%
+Accumulated return: 18.34%
+Average return: 6.18%
+Benchmark return : 27.72%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 1.93
+MDD: -3.62%
+Benchmark MDD: -16.32%
+
+_______________________________________
+
+EWY 평균회귀 전략 결과:
+CAGR: 5.00%
+Accumulated return: 2.11%
+Average return: 2.11%
+Benchmark return : 27.72%
+Number of trades: 1
+Number of win: 1
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.10
+MDD: -7.94%
+Benchmark MDD: -16.32%
+
+_______________________________________
+
+PEP 모멘텀 전략 결과:
+CAGR: -22.52%
+Accumulated return: -9.50%
+Average return: -2.09%
+Benchmark return : 1.88%
+Number of trades: 5
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -2.06
+MDD: -11.19%
+Benchmark MDD: -17.79%
+
+_______________________________________
+
+PEP 평균회귀 전략 결과:
+CAGR: -18.63%
+Accumulated return: -7.86%
+Average return: -7.86%
+Benchmark return : 1.88%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.22
+MDD: -12.47%
+Benchmark MDD: -17.79%
+
+_______________________________________
+
+KO 모멘텀 전략 결과:
+CAGR: -18.27%
+Accumulated return: -7.71%
+Average return: -1.97%
+Benchmark return : 2.90%
+Number of trades: 4
+Number of win: 1
+Hit ratio: 25.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.40
+MDD: -12.11%
+Benchmark MDD: -6.69%
+
+_______________________________________
+
+KO 평균회귀 전략 결과:
+CAGR: 0.00%
+Accumulated return: 0.00%
+Average return: nan%
+Benchmark return : 2.90%
+Number of trades: 0
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.00
+MDD: 0.00%
+Benchmark MDD: -6.69%
+
+_______________________________________
+
+GOOGL 모멘텀 전략 결과:
+CAGR: -28.39%
+Accumulated return: -11.98%
+Average return: -2.41%
+Benchmark return : 0.15%
+Number of trades: 7
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.53
+MDD: -13.74%
+Benchmark MDD: -29.80%
+
+_______________________________________
+
+GOOGL 평균회귀 전략 결과:
+CAGR: -33.40%
+Accumulated return: -14.09%
+Average return: nan%
+Benchmark return : 0.15%
+Number of trades: 0
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.12
+MDD: -21.80%
+Benchmark MDD: -21.80%
+
+_______________________________________
+
+_______________________________________
+
+UBER 모멘텀 전략 결과:
+CAGR: -10.76%
+Accumulated return: -4.54%
+Average return: -1.02%
+Benchmark return : 14.06%
+Number of trades: 4
+Number of win: 1
+Hit ratio: 25.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.47
+MDD: -12.98%
+Benchmark MDD: -20.70%
+
+_______________________________________
+
+UBER 평균회귀 전략 결과:
+CAGR: 23.96%
+Accumulated return: 10.11%
+Average return: 4.94%
+Benchmark return : 14.06%
+Number of trades: 2
+Number of win: 2
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.74
+MDD: -7.49%
+Benchmark MDD: -20.70%
+
+_______________________________________
+
+TSLA 모멘텀 전략 결과:
+CAGR: 2.89%
+Accumulated return: 1.22%
+Average return: 0.79%
+Benchmark return : -7.36%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 0.00
+MDD: -21.55%
+Benchmark MDD: -48.19%
+
+_______________________________________
+
+TSLA 평균회귀 전략 결과:
+CAGR: 51.95%
+Accumulated return: 21.92%
+Average return: 8.70%
+Benchmark return : -7.36%
+Number of trades: 5
+Number of win: 5
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.65
+MDD: -38.39%
+Benchmark MDD: -38.47%
+
+_______________________________________
+
+PINS 모멘텀 전략 결과:
+CAGR: 6.87%
+Accumulated return: 2.90%
+Average return: 1.07%
+Benchmark return : -4.53%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.13
+MDD: -9.48%
+Benchmark MDD: -39.47%
+
+_______________________________________
+
+PINS 평균회귀 전략 결과:
+CAGR: -49.99%
+Accumulated return: -21.09%
+Average return: -21.09%
+Benchmark return : -4.53%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.02
+MDD: -30.09%
+Benchmark MDD: -38.80%
+
+_______________________________________
+
+RBLX 모멘텀 전략 결과:
+CAGR: 237.77%
+Accumulated return: 100.32%
+Average return: nan%
+Benchmark return : 86.52%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: 7.02
+MDD: -5.45%
+Benchmark MDD: -32.13%
+
+_______________________________________
+
+RBLX 평균회귀 전략 결과:
+CAGR: 15.67%
+Accumulated return: 6.61%
+Average return: 3.46%
+Benchmark return : 86.52%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.36
+MDD: -15.51%
+Benchmark MDD: -23.27%
+
+_______________________________________
+
+SBUX 모멘텀 전략 결과:
+CAGR: -23.56%
+Accumulated return: -9.94%
+Average return: -1.48%
+Benchmark return : -16.07%
+Number of trades: 7
+Number of win: 1
+Hit ratio: 14.29%
+Investment period: 0.4yrs
+Sharpe ratio: -1.59
+MDD: -12.48%
+Benchmark MDD: -31.19%
+
+_______________________________________
+
+SBUX 평균회귀 전략 결과:
+CAGR: -46.41%
+Accumulated return: -19.58%
+Average return: -19.58%
+Benchmark return : -16.07%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.17
+MDD: -25.17%
+Benchmark MDD: -31.19%
+
+_______________________________________
+
+DIS 모멘텀 전략 결과:
+CAGR: 37.78%
+Accumulated return: 15.94%
+Average return: 7.86%
+Benchmark return : 10.47%
+Number of trades: 2
+Number of win: 2
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 2.21
+MDD: -3.27%
+Benchmark MDD: -28.32%
+
+_______________________________________
+
+DIS 평균회귀 전략 결과:
+CAGR: -31.17%
+Accumulated return: -13.15%
+Average return: -13.15%
+Benchmark return : 10.47%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.91
+MDD: -22.55%
+Benchmark MDD: -28.19%
+
+_______________________________________
+
+WMT 모멘텀 전략 결과:
+CAGR: -12.28%
+Accumulated return: -5.18%
+Average return: -1.69%
+Benchmark return : -8.16%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: -0.76
+MDD: -9.96%
+Benchmark MDD: -21.93%
+
+_______________________________________
+
+WMT 평균회귀 전략 결과:
+CAGR: -5.69%
+Accumulated return: -2.40%
+Average return: -1.06%
+Benchmark return : -8.16%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.32
+MDD: -14.56%
+Benchmark MDD: -21.17%
+
+_______________________________________
+
+QCOM 모멘텀 전략 결과:
+CAGR: -19.84%
+Accumulated return: -8.37%
+Average return: -2.15%
+Benchmark return : -9.09%
+Number of trades: 4
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.61
+MDD: -8.37%
+Benchmark MDD: -28.73%
+
+_______________________________________
+
+QCOM 평균회귀 전략 결과:
+CAGR: -9.24%
+Accumulated return: -3.90%
+Average return: -1.70%
+Benchmark return : -9.09%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.26
+MDD: -22.68%
+Benchmark MDD: -28.47%
+
+_______________________________________
+
+IBM 모멘텀 전략 결과:
+CAGR: 14.86%
+Accumulated return: 6.27%
+Average return: 2.18%
+Benchmark return : 10.14%
+Number of trades: 3
+Number of win: 2
+Hit ratio: 66.67%
+Investment period: 0.4yrs
+Sharpe ratio: 0.72
+MDD: -6.24%
+Benchmark MDD: -16.51%
+
+_______________________________________
+
+IBM 평균회귀 전략 결과:
+CAGR: 7.61%
+Accumulated return: 3.21%
+Average return: 1.63%
+Benchmark return : 10.14%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.20
+MDD: -12.63%
+Benchmark MDD: -16.51%
+
+_______________________________________
+
+SPOT 모멘텀 전략 결과:
+CAGR: -26.00%
+Accumulated return: -10.97%
+Average return: -1.53%
+Benchmark return : 8.98%
+Number of trades: 7
+Number of win: 2
+Hit ratio: 28.57%
+Investment period: 0.4yrs
+Sharpe ratio: -0.80
+MDD: -18.52%
+Benchmark MDD: -24.54%
+
+_______________________________________
+
+SPOT 평균회귀 전략 결과:
+CAGR: 27.23%
+Accumulated return: 11.49%
+Average return: 5.64%
+Benchmark return : 8.98%
+Number of trades: 2
+Number of win: 2
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.69
+MDD: -10.98%
+Benchmark MDD: -23.88%
+
+_______________________________________
+
+ADBE 모멘텀 전략 결과:
+CAGR: 4.41%
+Accumulated return: 1.86%
+Average return: 0.65%
+Benchmark return : -20.51%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 0.12
+MDD: -5.20%
+Benchmark MDD: -26.74%
+
+_______________________________________
+
+ADBE 평균회귀 전략 결과:
+CAGR: -16.80%
+Accumulated return: -7.09%
+Average return: -2.80%
+Benchmark return : -20.51%
+Number of trades: 2
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.70
+MDD: -15.77%
+Benchmark MDD: -26.74%
+
+_______________________________________
+
+_______________________________________
+
+META 모멘텀 전략 결과:
+CAGR: 17.85%
+Accumulated return: 7.53%
+Average return: 2.77%
+Benchmark return : -4.24%
+Number of trades: 3
+Number of win: 2
+Hit ratio: 66.67%
+Investment period: 0.4yrs
+Sharpe ratio: 0.59
+MDD: -8.14%
+Benchmark MDD: -34.15%
+
+_______________________________________
+
+META 평균회귀 전략 결과:
+CAGR: -33.56%
+Accumulated return: -14.16%
+Average return: -14.16%
+Benchmark return : -4.24%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.80
+MDD: -26.11%
+Benchmark MDD: -34.15%
+
+_______________________________________
+
+MMM 모멘텀 전략 결과:
+CAGR: -6.78%
+Accumulated return: -2.86%
+Average return: -0.71%
+Benchmark return : 3.60%
+Number of trades: 4
+Number of win: 1
+Hit ratio: 25.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.52
+MDD: -8.23%
+Benchmark MDD: -18.71%
+
+_______________________________________
+
+MMM 평균회귀 전략 결과:
+CAGR: 1.56%
+Accumulated return: 0.66%
+Average return: 0.66%
+Benchmark return : 3.60%
+Number of trades: 1
+Number of win: 1
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.04
+MDD: -9.77%
+Benchmark MDD: -18.71%
+
+_______________________________________
+
+AMZN 모멘텀 전략 결과:
+CAGR: 1.19%
+Accumulated return: 0.50%
+Average return: 0.20%
+Benchmark return : -1.12%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.08
+MDD: -11.29%
+Benchmark MDD: -30.88%
+
+_______________________________________
+
+AMZN 평균회귀 전략 결과:
+CAGR: -32.26%
+Accumulated return: -13.61%
+Average return: -13.61%
+Benchmark return : -1.12%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.87
+MDD: -22.74%
+Benchmark MDD: -26.83%
+
+_______________________________________
+
+NKE 모멘텀 전략 결과:
+CAGR: -46.26%
+Accumulated return: -19.52%
+Average return: -3.13%
+Benchmark return : 0.39%
+Number of trades: 8
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -2.35
+MDD: -21.11%
+Benchmark MDD: -34.48%
+
+_______________________________________
+
+NKE 평균회귀 전략 결과:
+CAGR: -47.66%
+Accumulated return: -20.11%
+Average return: -20.11%
+Benchmark return : 0.39%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.14
+MDD: -27.71%
+Benchmark MDD: -34.48%
+
+_______________________________________
+
+MSFT 모멘텀 전략 결과:
+CAGR: 16.76%
+Accumulated return: 7.07%
+Average return: 1.55%
+Benchmark return : 25.36%
+Number of trades: 6
+Number of win: 2
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 1.18
+MDD: -6.02%
+Benchmark MDD: -20.56%
+
+_______________________________________
+
+MSFT 평균회귀 전략 결과:
+CAGR: 8.84%
+Accumulated return: 3.73%
+Average return: 1.96%
+Benchmark return : 25.36%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: 0.24
+MDD: -11.59%
+Benchmark MDD: -14.80%
+
+_______________________________________
+
+BA 모멘텀 전략 결과:
+CAGR: 30.74%
+Accumulated return: 12.97%
+Average return: 1.91%
+Benchmark return : 24.36%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: 1.15
+MDD: -9.96%
+Benchmark MDD: -26.66%
+
+_______________________________________
+
+BA 평균회귀 전략 결과:
+CAGR: 81.34%
+Accumulated return: 34.32%
+Average return: 17.08%
+Benchmark return : 24.36%
+Number of trades: 2
+Number of win: 2
+Hit ratio: 100.00%
+Investment period: 0.4yrs
+Sharpe ratio: 1.66
+MDD: -12.88%
+Benchmark MDD: -26.62%
+
+_______________________________________
+
+AZN 모멘텀 전략 결과:
+CAGR: -15.52%
+Accumulated return: -6.55%
+Average return: -1.33%
+Benchmark return : -5.17%
+Number of trades: 5
+Number of win: 1
+Hit ratio: 20.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.22
+MDD: -13.05%
+Benchmark MDD: -16.79%
+
+_______________________________________
+
+AZN 평균회귀 전략 결과:
+CAGR: 2.63%
+Accumulated return: 1.11%
+Average return: 0.58%
+Benchmark return : -5.17%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.01
+MDD: -12.24%
+Benchmark MDD: -16.79%
+
+_______________________________________
+
+MCD 모멘텀 전략 결과:
+CAGR: -21.31%
+Accumulated return: -8.99%
+Average return: -1.86%
+Benchmark return : -2.62%
+Number of trades: 5
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -1.78
+MDD: -8.99%
+Benchmark MDD: -10.62%
+
+_______________________________________
+
+MCD 평균회귀 전략 결과:
+CAGR: -2.77%
+Accumulated return: -1.17%
+Average return: -1.17%
+Benchmark return : -2.62%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.60
+MDD: -5.81%
+Benchmark MDD: -10.62%
+
+_______________________________________
+
+NVDA 모멘텀 전략 결과:
+CAGR: 102.01%
+Accumulated return: 43.04%
+Average return: -5.01%
+Benchmark return : 24.19%
+Number of trades: 2
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: 3.46
+MDD: -5.81%
+Benchmark MDD: -36.89%
+
+_______________________________________
+
+NVDA 평균회귀 전략 결과:
+CAGR: -2.16%
+Accumulated return: -0.91%
+Average return: -0.31%
+Benchmark return : 24.19%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.09
+MDD: -24.50%
+Benchmark MDD: -32.69%
+
+_______________________________________
+
+AMD 모멘텀 전략 결과:
+CAGR: 86.23%
+Accumulated return: 36.38%
+Average return: 5.20%
+Benchmark return : 38.81%
+Number of trades: 3
+Number of win: 1
+Hit ratio: 33.33%
+Investment period: 0.4yrs
+Sharpe ratio: 2.37
+MDD: -6.69%
+Benchmark MDD: -39.63%
+
+_______________________________________
+
+AMD 평균회귀 전략 결과:
+CAGR: -0.12%
+Accumulated return: -0.05%
+Average return: 0.01%
+Benchmark return : 38.81%
+Number of trades: 2
+Number of win: 1
+Hit ratio: 50.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.05
+MDD: -18.89%
+Benchmark MDD: -31.88%
+
+_______________________________________
+
+CPNG 모멘텀 전략 결과:
+CAGR: 17.06%
+Accumulated return: 7.20%
+Average return: 1.24%
+Benchmark return : 24.27%
+Number of trades: 6
+Number of win: 1
+Hit ratio: 16.67%
+Investment period: 0.4yrs
+Sharpe ratio: 0.48
+MDD: -12.07%
+Benchmark MDD: -22.57%
+
+_______________________________________
+
+CPNG 평균회귀 전략 결과:
+CAGR: -4.22%
+Accumulated return: -1.78%
+Average return: -1.78%
+Benchmark return : 24.27%
+Number of trades: 1
+Number of win: 0
+Hit ratio: 0.00%
+Investment period: 0.4yrs
+Sharpe ratio: -0.22
+MDD: -16.24%
+Benchmark MDD: -22.57%
+
+_______________________________________
